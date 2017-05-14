@@ -1,2 +1,4 @@
-node_modules/
-venv/
+build
+node_modules
+yarn-error.log
+venv
