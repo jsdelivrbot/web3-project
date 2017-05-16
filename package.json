@@ -33,5 +33,10 @@
     "web3": "^0.18.2",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.3.0"
+  },
+  "dependencies": {
+    "ipfs": "^0.23.1",
+    "ipfs-api": "^14.0.1",
+    "webpack": "^2.5.1"
   }
 }
